@@ -7,6 +7,7 @@
 
 <!-- ✅ WORKING: shields.io - always works on GitHub -->
 <a href="https://github.com/Narenrohitha">
+<a href="https://www.youtube.com/watch?v=slMSgmcaYDA&t=8s">  
 <img src="https://img.shields.io/badge/GitHub-Narenrohitha-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/>
 </a>
 <a href="https://www.linkedin.com/in/naren-g-7bb580229/">
