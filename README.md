@@ -15,8 +15,6 @@
 <a href="https://medium.com/@narengl2001">
 <img src="https://img.shields.io/badge/Medium-@narengl2001-12100E?style=for-the-badge&logo=medium&logoColor=white&labelColor=0d1117"/>
 </a>
-<a href="https://www.youtube.com/watch?v=slMSgmcaYDA&t=8s">  
-</a>
 
 <br/><br/>
 
